@@ -2,3 +2,4 @@ venv/
 __pycache__/
 *.pyc
 .DS_Store
+src/de/similarity_matrix_de.npy
